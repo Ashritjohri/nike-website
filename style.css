@@ -1,0 +1,54 @@
+body{
+	background-image: url(logo.jpg);
+	background-size: cover;
+	color: white;
+}
+
+.header{
+	background-color: black;
+	color: white;
+	text-align: center;
+	background-image: url(logo.jpg);
+	background-size: contain;
+}
+nav a{
+	color: red;
+	border-right: 2px solid white;
+	border-left: 2px solid white;
+	padding: 0px 40px;
+	
+
+}
+nav a:hover{
+	color: white;
+
+}
+.Contact{
+	background-image: url(shoe2.jpg);
+	background-size: cover;
+
+}
+
+.select{
+	border: 2px solid white;
+	display: inline-block;
+}
+.select:hover{
+	color: red;
+	border: 2px solid red;
+
+
+
+.details{
+	border: 2px solid red;
+	width: 100px;
+	text-align: center;
+
+}
+.details:hover{
+	
+	background-color: white;
+	color:red;
+	cursor: pointer;
+}
+	
